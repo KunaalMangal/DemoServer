@@ -1,0 +1,62 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "KUNAAL MANGAL",
+      "user_name": "mk",
+      "email_id": "mk@demo.com",
+      "phone_number": 9874561230,
+      "password": "test@123",
+      "created_at": "2022-12-03",
+      "updated_at": "2022-12-03"
+    },
+    {
+        "id": 2,
+        "name": "Demo Bhai",
+        "user_name": "demo",
+        "email_id": "demobhai@demo.com",
+        "phone_number": 9874561230,
+        "password": "test@123",
+        "created_at": "2022-12-03",
+        "updated_at": "2022-12-03"
+      }
+    ],
+    "posts":[
+        {
+            "id": 1,
+            "title": "The First Fake Json Server.",
+            "description": "The First Fake Json Server is Created by KUNAAL MANGAL.",
+            "images": ["image1.png", "image2.jpg"],
+            "author_id": 1,
+            "created_at":"2022-12-03",
+            "updated_at":"2022-12-03"
+        },
+        {
+            "id": 2,
+            "title": "The First Fake Json Server.",
+            "description": "The First Fake Json Server is Created by KUNAAL MANGAL.",
+            "images": ["image1.png", "image2.jpg"],
+            "author_id": 1,
+            "created_at":"2022-12-03",
+            "updated_at":"2022-12-03"
+        },
+        {
+            "id": 3,
+            "title": "The First Fake Json Server.",
+            "description": "The First Fake Json Server is Created by KUNAAL MANGAL.",
+            "images": ["image1.png", "image2.jpg"],
+            "author_id": 1,
+            "created_at":"2022-12-03",
+            "updated_at":"2022-12-03"
+        },
+        {
+            "id": 4,
+            "title": "The First Fake Json Server.",
+            "description": "The First Fake Json Server is Created by KUNAAL MANGAL.",
+            "images": ["image1.png", "image2.jpg"],
+            "author_id": 1,
+            "created_at":"2022-12-03",
+            "updated_at":"2022-12-03"
+        }
+    ]
+}
